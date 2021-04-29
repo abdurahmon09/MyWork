@@ -11,3 +11,8 @@
   }
   
 }
+@media (max-width: 1140px) {
+  .about::before {
+    display: none;
+  }
+}
